@@ -2,3 +2,16 @@ body {
     background-color: #121212;
     color: beige;
 }
+
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.name {
+    font-size: 8em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 0 0 20px gold;
+}
